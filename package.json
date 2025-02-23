@@ -1,0 +1,21 @@
+{
+  "name": "thenux-api",
+  "version": "1.0.0",
+  "description": "AI API endpoint using the ai npm package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ai": "^1.0.0",
+    "axios": "^1.2.5",
+    "insta-fetcher": "^1.0.0",
+    "gpt-in-terminal": "^1.0.0",
+    "node-fetch": "^2.6.7",
+    "express": "^4.17.1",
+    "router": "1.3.8",
+    "llama-node": "0.1.6"
+  },
+  "author": "Thenux",
+  "license": "MIT"
+}
